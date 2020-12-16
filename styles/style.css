@@ -24,4 +24,19 @@ a {
 body {
     width: 600px;
     margin: 0 auto;
+    
+}
+
+.header-wrapper {
+   height: 30px;
+  width: 100%;
+  background-color: rgba(34,49,52,0.9);
+}
+
+.header-left {
+    float: left;
+}
+
+.header-center {
+    float: center;
 }
